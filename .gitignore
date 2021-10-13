@@ -9,6 +9,8 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+build.xml
+manifest.mf
 
 # Class Files #
 *.class
@@ -16,4 +18,4 @@ nb-configuration.xml
 # Package Files #
 *.jar
 *.war
-*.ear
+*.ear	
